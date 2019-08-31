@@ -1,2 +1,2 @@
 # MachineLearning_Stanford_AndrewNg_Code_Assignments
-This repository contains all the 8 assignment codes of Machine Learning in Matlab
+This repository contains the coding assignments 5,6,8 of Machine Learning course by Andrew Ng in Matlab
